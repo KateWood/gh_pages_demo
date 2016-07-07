@@ -1,5 +1,5 @@
 $(document).ready(function(){
-
+console.log('begin!')
 
 // var myDiv = document.getElementById('container')
 //
